@@ -1,6 +1,6 @@
-# remix-ide-server-hosting
+## Remix-IDE Hosting
 
-Host Ethereum's Remix-IDE on Ubuntu 18.04.
+How-To's for hosting Ethereum's Remix-IDE on Ubuntu 18.04.
 
 
 #### Remix-IDE Installation
