@@ -1,8 +1,7 @@
 # Remix-IDE Installation -- Process Management with pm2
 
-This how-to is a continuation of [Remix-IDE Installation -- Ubuntu 18.04 minimal](./remix-ide-installation-ubuntu-18.md) and
 
-Use npm to install pm2 as remix user.
+As remix-ide account ("remixer"), use npm to install pm2
 
     $ sudo su remixer
 
